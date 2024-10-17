@@ -22,7 +22,7 @@ export default function Page() {
 			<div className="my-8">
 				<BlogPosts />
 			</div>
-			<span className="fixed top-4 right-4 text-red-500">
+			<span className="md:fixed md:top-4 md:right-4 text-red-500">
 				Ready to break up with no-code?
 			</span>
 		</section>
