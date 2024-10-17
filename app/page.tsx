@@ -6,7 +6,7 @@ export default function Page() {
 			<h1 className="mb-8 text-2xl font-semibold tracking-tighter">
 				Speak the language of technology,
 				<br />
-				<span className="text-red-500">
+				<span className="text-red-500 md:sticky md:top-4">
 					<em>fluently.</em>
 				</span>
 			</h1>
@@ -22,9 +22,7 @@ export default function Page() {
 			<div className="my-8">
 				<BlogPosts />
 			</div>
-			<span className="fixed top-4 right-4 text-red-500">
-				Ready to break up with no-code?
-			</span>
+			<span>Ready to break up with no-code?</span>
 		</section>
 	);
 }
