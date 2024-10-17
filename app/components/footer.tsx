@@ -24,21 +24,10 @@ export default function Footer() {
 						className="flex items-center transition-all hover:text-neutral-800 dark:hover:text-neutral-100"
 						rel="noopener noreferrer"
 						target="_blank"
-						href="https://github.com/adam-leigh"
+						href="https://forms.gle/HN7S41Nv4P1UfT5N9"
 					>
 						<ArrowIcon />
-						<p className="ml-2 h-7">github</p>
-					</a>
-				</li>
-				<li>
-					<a
-						className="flex items-center transition-all hover:text-neutral-800 dark:hover:text-neutral-100"
-						rel="noopener noreferrer"
-						target="_blank"
-						href="https://github.com/adam-leigh/portfolio"
-					>
-						<ArrowIcon />
-						<p className="ml-2 h-7">view source</p>
+						<p className="ml-2 h-7">Book a tutor</p>
 					</a>
 				</li>
 			</ul>
