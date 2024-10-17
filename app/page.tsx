@@ -6,7 +6,9 @@ export default function Page() {
 			<h1 className="mb-8 text-2xl font-semibold tracking-tighter">
 				Speak the language of technology,
 				<br />
-				fluently.
+				<span style={{ color: "red" }}>
+					<em>fluently.</em>
+				</span>
 			</h1>
 			<p className="mb-4">
 				{`I'm a Vim enthusiast and tab advocate, finding unmatched efficiency in
