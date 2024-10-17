@@ -11,15 +11,21 @@ export default function Page() {
 				</span>
 			</h1>
 			<p className="mb-4">
-				I'm a Vim enthusiast and tab advocate, finding unmatched efficiency in
-				Vim's keystroke commands and tabs' flexibility for personal viewing
-				preferences. This extends to my support for static typing, where its
-				early error detection ensures cleaner code, and my preference for dark
-				mode, which eases long coding sessions by reducing eye strain.
+				Fluently.tech empowers skilled professionals to break free from no-code
+				limitations and harness the full potential of AI through programming.
+				Founded in early 2023, we serve ambitious entrepreneurs, innovators, and
+				creators ready to transform their expertise with AI into powerful,
+				proprietary applications. To build, create, and innovate with true
+				independence—a pathway to mastery designed to unlock new levels of
+				productivity, creativity, and financial freedom.
 			</p>
 			<div className="my-8">
 				<BlogPosts />
 			</div>
+			<span>Ready to break up with no-code? </span>
+			Step into the future with
+			<span style={{ color: "red" }}> fluently.</span>
+			<span style={{ color: "#326280" }}>tech</span>
 		</section>
 	);
 }
