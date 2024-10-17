@@ -11,16 +11,11 @@ export default function Page() {
 				</span>
 			</h1>
 			<p className="mb-4">
-				{`Fluently.Tech empowers skilled professionals to break free from no-code
-				limitations and harness the full potential of AI through programming.
-				Founded in early 2023, we serve ambitious entrepreneurs, innovators, and
-				creators who are ready to turn their expertise with AI into powerful,
-				proprietary applications. Through one-on-one, tailored guidance,
-				fluently.tech targets the exact skill gaps holding you back, giving you
-				the knowledge to build, create, and innovate with true independence.
-				This isn’t just tutoring—it’s a pathway to mastery, designed to unlock
-				new levels of productivity, creativity, and financial freedom. Ready to
-				break up with no-code? Step into the future with Fluently.Tech.`}
+				{`I'm a Vim enthusiast and tab advocate, finding unmatched efficiency in
+        Vim's keystroke commands and tabs' flexibility for personal viewing
+        preferences. This extends to my support for static typing, where its
+        early error detection ensures cleaner code, and my preference for dark
+        mode, which eases long coding sessions by reducing eye strain.`}
 			</p>
 			<div className="my-8">
 				<BlogPosts />
