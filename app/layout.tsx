@@ -16,7 +16,7 @@ export const metadata: Metadata = {
 	},
 	description: "This is my portfolio.",
 	openGraph: {
-		title: "fluently.tech",
+		title: "~/f.t 🚀",
 		description: "Premium, 1-1 Tutoring in Computer Science & AI",
 		url: baseUrl,
 		siteName: "My Portfolio",
