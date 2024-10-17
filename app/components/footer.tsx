@@ -27,7 +27,9 @@ export default function Footer() {
 						href="https://forms.gle/HN7S41Nv4P1UfT5N9"
 					>
 						<ArrowIcon />
-						<p className="ml-2 h-7">Book a tutor</p>
+						<p className="ml-2 h-7">
+							<span style={{ color: "" }}>Book a tutor</span>
+						</p>
 					</a>
 				</li>
 			</ul>

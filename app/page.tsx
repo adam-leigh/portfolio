@@ -23,9 +23,9 @@ export default function Page() {
 				<BlogPosts />
 			</div>
 			<span>Ready to break up with no-code? </span>
-			Step into the future with
-			<span style={{ color: "red" }}> fluently.</span>
-			<span style={{ color: "#326280" }}>tech</span>
+			{/* Step into the future with */}
+			{/* <span style={{ color: "red" }}> fluently.</span> */}
+			{/* <span style={{ color: "#326280" }}>tech</span> */}
 		</section>
 	);
 }
