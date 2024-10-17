@@ -2,11 +2,11 @@ import { BlogPosts } from "app/components/posts";
 
 export default function Page() {
 	return (
-		<section>
+		<section className="relative">
 			<h1 className="mb-8 text-2xl font-semibold tracking-tighter">
 				Speak the language of technology,
 				<br />
-				<span style={{ color: "red" }}>
+				<span className="text-red-500">
 					<em>fluently.</em>
 				</span>
 			</h1>
@@ -22,10 +22,9 @@ export default function Page() {
 			<div className="my-8">
 				<BlogPosts />
 			</div>
-			<span>Ready to break up with no-code? </span>
-			{/* Step into the future with */}
-			{/* <span style={{ color: "red" }}> fluently.</span> */}
-			{/* <span style={{ color: "#326280" }}>tech</span> */}
+			<span className="fixed top-4 right-4 text-red-500">
+				Ready to break up with no-code?
+			</span>
 		</section>
 	);
 }
